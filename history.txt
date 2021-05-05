@@ -1,0 +1,199 @@
+  950  vim config
+  951  ls
+  952  ls
+  953  sudo gedit config
+  954  open -t config
+  955  cd
+  956  ssh kingcrab
+  957  cd ${HOME}/.ssh/config
+  958  open -t config
+  959  ls
+  960  cd ${HOME}/.ssh
+  961  ls
+  962  open -t config
+  963  cd
+  964  ssh cita_gw -N
+  965  ssh cita_gw -N
+  966  ssh cita_gw -N
+  967  ssh cita_gw -N
+  968  ssh lobster
+  969  ssh student03@gw.cita.utoronto.ca
+  970  ssh cita_gw -N
+  971  ssh cita_gw -N
+  972  ls
+  973  cd Downloads
+  974  ls
+  975  cd ..
+  976  ls
+  977  cd Library
+  978  ls
+  979  cd ..
+  980  ls
+  981  cd Desktop
+  982  ls
+  983  cd ..
+  984  cd Library
+  985  ls
+  986  ssh student03@gw.cita.utoronto.ca
+  987  cd Desktop
+  988  ls
+  989  mkdir CTA200H_ass1
+  990  ls
+  991  cd CTA200H_ass1
+  992  ls
+  993  touch README.md
+  994  git init
+  995  git add README.md
+  996  git commit -m "first commit"
+  997  git remote add origin git@github.com:AlexLaroche7/CTA200.git
+  998  git push -u origin master
+  999  git remote add origin git@github.com:AlexLaroche7/CTA200.git
+ 1000  git remote add origin git@github.com:AlexLaroche7/CTA200.git
+ 1001  ls
+ 1002  cd Desktop
+ 1003  ls
+ 1004  cd CTA200H_ass1
+ 1005  ls
+ 1006  git init
+ 1007  git add README.md
+ 1008  git commit -m "first commit"
+ 1009  git remote add origin git@github.com:AlexLaroche7/CTA200.git
+ 1010  cd ..
+ 1011  ls
+ 1012  rm -rf CTA200H_ass1
+ 1013  cd CTA200H
+ 1014  ls
+ 1015  cd assignment1_2021
+ 1016  ls
+ 1017  git init
+ 1018  touch README.md
+ 1019  git add README.md
+ 1020  git commit "first commit"
+ 1021  git commit
+ 1022  git commit -m "first commit"
+ 1023  git remote add origin git@github.com:AlexLaroche7/CTA200.git
+ 1024  git push -u origin master
+ 1025  git push -u origin main
+ 1026  echo "# CTA200" >> README.md
+ 1027  git init
+ 1028  git add README.md
+ 1029  git commit -m "first commit"
+ 1030  git branch -M main
+ 1031  git remote add origin git@github.com:AlexLaroche7/CTA200.git
+ 1032  git push -u origin main
+ 1033  echo "# CTA200" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin git@github.com:AlexLaroche7/CTA200.git\ngit push -u origin main
+ 1034  ssh git@github.com:AlexLaroche7/CTA200.git
+ 1035  git@github.com:AlexLaroche7/CTA200.git
+ 1036  ssh -T git@github.com:AlexLaroche7/CTA200.git
+ 1037  ssh -T AlexLaroche7@github.com
+ 1038  ssh -T git@github.com
+ 1039  git remote add origin https://github.com/AlexLaroche7/CTA200.git
+ 1040  git push -u origin main
+ 1041  git push -u origin main
+ 1042  touch LICENSE.md
+ 1043  cat LICENSE.md
+ 1044  vim LICENSE.md
+ 1045  cat LICENSE.md
+ 1046  git add LICENSE.md
+ 1047  git push -u origin main
+ 1048  git status
+ 1049  git commit -m "added license
+ 1050  git commit -m "added license"
+ 1051  git push -u origin main
+ 1052  mkdir assignment_1
+ 1053  ls
+ 1054  cp {main.c,average.c,average.h} assignment_1
+ 1055  ls
+ 1056  cd assignment_1
+ 1057  ls
+ 1058  cd .
+ 1059  cd ..
+ 1060  ls
+ 1061  make
+ 1062  make all
+ 1063  ls
+ 1064  make
+ 1065  make
+ 1066  make
+ 1067  make
+ 1068  cd assignment_1
+ 1069  ls
+ 1070  make
+ 1071  make
+ 1072  make
+ 1073  ls
+ 1074  cat Makefile
+ 1075  make
+ 1076  make
+ 1077  make
+ 1078  make
+ 1079  make
+ 1080  make
+ 1081  make
+ 1082  ls
+ 1083  cd a.out
+ 1084  cat a.out
+ 1085  ls
+ 1086  cat average.o
+ 1087  cat average.h.gch
+ 1088  make
+ 1089  make average
+ 1090  ls
+ 1091  make clean
+ 1092  ls
+ 1093  make average
+ 1094  ls
+ 1095  cat average.o
+ 1096  make average
+ 1097  make average
+ 1098  cat average.h.gch
+ 1099  make average
+ 1100  make average
+ 1101  make average
+ 1102  make average
+ 1103  make average
+ 1104  make average
+ 1105  make
+ 1106  make
+ 1107  make
+ 1108  make
+ 1109  ls
+ 1110  make clean
+ 1111  make
+ 1112  ls
+ 1113  cat averagetest
+ 1114  make
+ 1115  make clean
+ 1116  make
+ 1117  make
+ 1118  make
+ 1119  ls
+ 1120  cd ..
+ 1121  ls
+ 1122  rm -rf assignment_1
+ 1123  mkdir assignment_1
+ 1124  cp {main.c,average.c,average.h} assignment_1
+ 1125  ls
+ 1126  cd assignment_1
+ 1127  ls
+ 1128  touch Makefile
+ 1129  make
+ 1130  make
+ 1131  ./
+ 1132  ./executable
+ 1133  cd ..
+ 1134  git add assignment_1
+ 1135  git commit -m "figured out c code"
+ 1136  git push origin main
+ 1137  history > history.txt
+ 1138  ls
+ 1139  cat history.txt
+ 1140  less history.txt
+ 1141  history 200 > history.txt
+ 1142  history 50 > history.txt
+ 1143  history 20  > history.txt
+ 1144  rm history.txt
+ 1145  history 50 > history.txt
+ 1146  rm history.txt
+ 1147  history 20 > history.txt
+ 1148  rm history.txt
